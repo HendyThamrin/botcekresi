@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
 // Ganti dengan token bot kamu
-const TELEGRAM_TOKEN = '7223686317:AAFJKbUn4qC-s9s6Ii-vQRevQ47bk47TS2I';
+const TELEGRAM_TOKEN = '7866835274:AAFHFO7pBZHRFlIA47cdsISvS8PhZA_JLqQ';
 // Ganti dengan API key BinderByte kamu
 const BINDERBYTE_KEY = '071ef170e025fe2ca816ed5aecb5413e2356fbb0c9f701a01a581870527581ec';
 
